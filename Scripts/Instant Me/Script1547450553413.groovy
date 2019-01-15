@@ -13,31 +13,21 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-Mobile.startApplication('C:\\Users\\netzon.rhobert\\Desktop\\Gycom\\psapp-debug.apk', true)
+Mobile.startApplication('C:\\Users\\netzon.rhobert\\Desktop\\Gycom\\psapp-debug.apk', false)
 
-Mobile.tap(findTestObject('android.widget.Button0 - next (3)'), 0)
+Mobile.tap(findTestObject('android.widget.ImageView7'), 0)
 
-Mobile.tap(findTestObject('android.widget.Button0 - Psoriasis (2)'), 0)
+Mobile.tap(findTestObject('android.widget.Button0 - instant_meINSTANT ME'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText0 - Whats your name (2)'), 'Seagull', 0)
+Mobile.tap(findTestObject('android.widget.Button0 - instantme-icon'), 0)
 
-Mobile.tap(findTestObject('android.widget.EditText1 - When is your birth date (1)'), 0)
+Mobile.tap(findTestObject('android.widget.Button3'), 0)
 
-Mobile.tap(findTestObject('android.widget.RadioButton1 - female (1)'), 0)
+Mobile.tap(findTestObject('android.widget.ImageButton0 (4)'), 0)
 
-Mobile.tap(findTestObject('android.widget.Button0 - next (3)'), 0)
+Mobile.tap(findTestObject('android.widget.ImageButton1'), 0)
 
-Mobile.tapAtPosition(87, 1256, FailureHandling.STOP_ON_FAILURE)
-
-Mobile.tap(findTestObject('android.widget.Button0 - next (3)'), 0)
-
-Mobile.tap(findTestObject('android.widget.Button1 - No (1)'), 0)
-
-Mobile.tap(findTestObject('android.widget.Button1 - No (1)'), 0)
-
-Mobile.tap(findTestObject('android.widget.Button1 - No (1)'), 0)
-
-Mobile.tap(findTestObject('android.widget.Button1 - No (1)'), 0)
+Mobile.tap(findTestObject('android.widget.ImageButton1'), 0)
 
 Mobile.closeApplication()
 

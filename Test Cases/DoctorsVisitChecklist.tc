@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test</name>
+   <name>DoctorsVisitChecklist</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>2e277640-8e43-42ee-9be7-e13b51b41510</testCaseGuid>
+   <testCaseGuid>27347500-45f2-4f41-b804-cbdfc1103e25</testCaseGuid>
 </TestCaseEntity>

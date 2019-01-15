@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+AndroidPSAPP,,,2019-01-15 10:28:11,2019-01-15 10:30:29,2m - 18.643s,PASSED
+,,,,,,
+Test Cases/Instant Me,,,2019-01-15 10:28:12,2019-01-15 10:29:22,1m - 10.813s,PASSED
+"startApplication(""C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk"", false)",,,2019-01-15 10:28:13,2019-01-15 10:28:59,46.002s,PASSED
+"tap(findTestObject(""android.widget.ImageView7""), 0)",,,2019-01-15 10:28:59,2019-01-15 10:29:09,10.148s,PASSED
+"tap(findTestObject(""android.widget.Button0 - instant_meINSTANT ME""), 0)",,,2019-01-15 10:29:09,2019-01-15 10:29:11,2.257s,PASSED
+"tap(findTestObject(""android.widget.Button0 - instantme-icon""), 0)",,,2019-01-15 10:29:11,2019-01-15 10:29:13,2.076s,PASSED
+"tap(findTestObject(""android.widget.Button3""), 0)",,,2019-01-15 10:29:13,2019-01-15 10:29:14,1.072s,PASSED
+"tap(findTestObject(""android.widget.ImageButton0 (4)""), 0)",,,2019-01-15 10:29:14,2019-01-15 10:29:18,3.565s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1""), 0)",,,2019-01-15 10:29:18,2019-01-15 10:29:19,1.771s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1""), 0)",,,2019-01-15 10:29:19,2019-01-15 10:29:21,1.567s,PASSED
+closeApplication(),,,2019-01-15 10:29:21,2019-01-15 10:29:22,1.414s,PASSED
+,,,,,,
+Test Cases/DoctorsVisitChecklist,,,2019-01-15 10:29:22,2019-01-15 10:30:29,1m - 7.026s,PASSED
+"startApplication(""C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk"", false)",,,2019-01-15 10:29:23,2019-01-15 10:30:07,43.593s,PASSED
+"tap(findTestObject(""android.widget.ImageView10 (1)""), 0)",,,2019-01-15 10:30:07,2019-01-15 10:30:17,9.679s,PASSED
+"tap(findTestObject(""android.widget.Button0 - checklistCHECKLIST (1)""), 0)",,,2019-01-15 10:30:17,2019-01-15 10:30:19,2.775s,PASSED
+"tap(findTestObject(""android.widget.Button0 - next (16)""), 0)",,,2019-01-15 10:30:19,2019-01-15 10:30:21,1.769s,PASSED
+"setText(findTestObject(""android.widget.EditText0 - Add item (1)""), ""Note X"", 0)",,,2019-01-15 10:30:21,2019-01-15 10:30:22,0.619s,PASSED
+"tap(findTestObject(""android.view.View11""), 0)",,,2019-01-15 10:30:22,2019-01-15 10:30:24,2.090s,PASSED
+"tap(findTestObject(""android.widget.Button13 - SET (2)""), 0)",,,2019-01-15 10:30:24,2019-01-15 10:30:25,1.094s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1 (4)""), 0)",,,2019-01-15 10:30:25,2019-01-15 10:30:26,1.601s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1 (4)""), 0)",,,2019-01-15 10:30:26,2019-01-15 10:30:28,1.811s,PASSED
+closeApplication(),,,2019-01-15 10:30:28,2019-01-15 10:30:29,1.172s,PASSED

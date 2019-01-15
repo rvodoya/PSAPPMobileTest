@@ -13,3 +13,23 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+Mobile.startApplication('C:\\Users\\netzon.rhobert\\Desktop\\Gycom\\psapp-debug.apk', false)
+
+Mobile.tap(findTestObject('android.widget.ImageView10 (1)'), 0)
+
+Mobile.tap(findTestObject('android.widget.Button0 - checklistCHECKLIST (1)'), 0)
+
+Mobile.tap(findTestObject('android.widget.Button0 - next (16)'), 0)
+
+Mobile.setText(findTestObject('android.widget.EditText0 - Add item (1)'), 'Note X', 0)
+
+Mobile.tap(findTestObject('android.view.View11'), 0)
+
+Mobile.tap(findTestObject('android.widget.Button13 - SET (2)'), 0)
+
+Mobile.tap(findTestObject('android.widget.ImageButton1 (4)'), 0)
+
+Mobile.tap(findTestObject('android.widget.ImageButton1 (4)'), 0)
+
+Mobile.closeApplication()
+
