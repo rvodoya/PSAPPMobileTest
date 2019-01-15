@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+AndroidPSAPP,,,2019-01-15 11:14:44,2019-01-15 11:18:01,3m - 17.024s,PASSED
+,,,,,,
+Test Cases/Instant Me,,,2019-01-15 11:14:44,2019-01-15 11:15:48,1m - 3.393s,PASSED
+"startApplication(""C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk"", false)",,,2019-01-15 11:14:45,2019-01-15 11:15:24,38.775s,PASSED
+"tap(findTestObject(""android.widget.ImageView7""), 0)",,,2019-01-15 11:15:24,2019-01-15 11:15:34,9.572s,PASSED
+"tap(findTestObject(""android.widget.Button0 - instant_meINSTANT ME""), 0)",,,2019-01-15 11:15:34,2019-01-15 11:15:36,2.572s,PASSED
+"tap(findTestObject(""android.widget.Button0 - instantme-icon""), 0)",,,2019-01-15 11:15:36,2019-01-15 11:15:38,1.931s,PASSED
+"tap(findTestObject(""android.widget.Button3""), 0)",,,2019-01-15 11:15:38,2019-01-15 11:15:40,1.954s,PASSED
+"tap(findTestObject(""android.widget.ImageButton0 (4)""), 0)",,,2019-01-15 11:15:40,2019-01-15 11:15:44,3.586s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1""), 0)",,,2019-01-15 11:15:44,2019-01-15 11:15:45,1.463s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1""), 0)",,,2019-01-15 11:15:45,2019-01-15 11:15:47,1.548s,PASSED
+closeApplication(),,,2019-01-15 11:15:47,2019-01-15 11:15:48,1.017s,PASSED
+,,,,,,
+Test Cases/DoctorsVisitChecklist,,,2019-01-15 11:15:48,2019-01-15 11:16:44,56.279s,PASSED
+"startApplication(""C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk"", false)",,,2019-01-15 11:15:48,2019-01-15 11:16:23,35.047s,PASSED
+"tap(findTestObject(""android.widget.ImageView10 (1)""), 0)",,,2019-01-15 11:16:23,2019-01-15 11:16:32,8.562s,PASSED
+"tap(findTestObject(""android.widget.Button0 - checklistCHECKLIST (1)""), 0)",,,2019-01-15 11:16:32,2019-01-15 11:16:35,2.650s,PASSED
+"tap(findTestObject(""android.widget.Button0 - next (16)""), 0)",,,2019-01-15 11:16:35,2019-01-15 11:16:37,2.062s,PASSED
+"setText(findTestObject(""android.widget.EditText0 - Add item (1)""), ""Note X"", 0)",,,2019-01-15 11:16:37,2019-01-15 11:16:37,0.593s,PASSED
+"tap(findTestObject(""android.view.View11""), 0)",,,2019-01-15 11:16:37,2019-01-15 11:16:39,1.978s,PASSED
+"tap(findTestObject(""android.widget.Button13 - SET (2)""), 0)",,,2019-01-15 11:16:39,2019-01-15 11:16:40,1.093s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1 (4)""), 0)",,,2019-01-15 11:16:40,2019-01-15 11:16:42,1.417s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1 (4)""), 0)",,,2019-01-15 11:16:42,2019-01-15 11:16:43,1.609s,PASSED
+closeApplication(),,,2019-01-15 11:16:43,2019-01-15 11:16:44,0.820s,PASSED
+,,,,,,
+Test Cases/Skin and Selfie Test,,,2019-01-15 11:16:44,2019-01-15 11:18:01,1m - 16.506s,PASSED
+"startApplication(""C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk"", false)",,,2019-01-15 11:16:45,2019-01-15 11:17:20,35.619s,PASSED
+"tap(findTestObject(""android.widget.ImageView11 (1)""), 0)",,,2019-01-15 11:17:20,2019-01-15 11:17:29,8.430s,PASSED
+"tap(findTestObject(""android.widget.ImageButton0 (7)""), 0)",,,2019-01-15 11:17:29,2019-01-15 11:17:31,2.512s,PASSED
+"tap(findTestObject(""android.widget.ImageButton6""), 0)",,,2019-01-15 11:17:31,2019-01-15 11:17:43,12.107s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1 (6)""), 0)",,,2019-01-15 11:17:43,2019-01-15 11:17:45,1.346s,PASSED
+"tap(findTestObject(""android.widget.TextView1 - Face""), 0)",,,2019-01-15 11:17:45,2019-01-15 11:17:46,1.359s,PASSED
+"tap(findTestObject(""android.widget.TextView7 - Trunk (front)""), 0)",,,2019-01-15 11:17:46,2019-01-15 11:17:47,1.233s,PASSED
+"setText(findTestObject(""android.widget.EditText0 - Enter comment""), ""Lorem ipsum dolor sit amet."", 0)",,,2019-01-15 11:17:47,2019-01-15 11:17:57,9.474s,PASSED
+"tap(findTestObject(""android.widget.ImageButton1 (7)""), 0)",,,2019-01-15 11:17:57,2019-01-15 11:17:58,1.717s,PASSED
+"tap(findTestObject(""android.widget.ImageButton2""), 0)",,,2019-01-15 11:17:58,2019-01-15 11:18:00,1.541s,PASSED
+closeApplication(),,,2019-01-15 11:18:00,2019-01-15 11:18:01,0.786s,PASSED

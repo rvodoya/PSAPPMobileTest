@@ -22,4 +22,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/DoctorsVisitChecklist</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>e7fd97e9-d2da-4d20-8104-e424515d3e37</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Skin and Selfie Test</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

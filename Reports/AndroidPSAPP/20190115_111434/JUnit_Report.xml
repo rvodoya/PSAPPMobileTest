@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AndroidPSAPP" time="197" tests="3" failures="0" errors="0">
+   <testsuite name="AndroidPSAPP" tests="3" failures="0" errors="0" time="197" timestamp="2019-01-15 11:14:44" hostname="netzon.rhobert - netzon-jlaw" id="Test Suites/AndroidPSAPP">
+      <properties>
+         <property name="deviceName" value="Huawei Nexus 6P (Android 7.1.2)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\netzon.rhobert\\git\\PSAPPMobileTest\\Reports\\AndroidPSAPP\\20190115_111434"/>
+         <property name="logFiles" value="C:\\Users\\netzon.rhobert\\git\\PSAPPMobileTest\\Reports\\AndroidPSAPP\\20190115_111434\\appium.log, C:\\Users\\netzon.rhobert\\git\\PSAPPMobileTest\\Reports\\AndroidPSAPP\\20190115_111434\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="netzon.rhobert - netzon-jlaw"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.8.1"/>
+         <property name="deviceModel" value="Nexus 6P"/>
+         <property name="hostAddress" value="10.0.75.1"/>
+         <property name="deviceManufacturer" value="Huawei"/>
+         <property name="deviceId" value="CVH7N16130000820"/>
+         <property name="deviceName" value="Huawei Nexus 6P (Android 7.1.2)"/>
+         <property name="deviceOSVersion" value="7.1.2"/>
+      </properties>
+      <testcase name="Test Cases/Instant Me" classname="Test Cases/Instant Me" status="PASSED">
+         <system-out><![CDATA[2019-01-15 11:14:44 - [TEST_CASE][PASSED] - Test Cases/Instant Me: Test Cases/Instant Me
+
+2019-01-15 11:14:45 - [TEST_STEP][PASSED] - startApplication("C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk", false): Started app at: 'C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk'
+
+2019-01-15 11:14:54 - [MESSAGE][INFO] - Appium server started on port 55,664
+
+2019-01-15 11:15:24 - [MESSAGE][PASSED] - Started app at: 'C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk'
+
+2019-01-15 11:15:24 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageView7"), 0): Tapped on element 'Object Repository/android.widget.ImageView7'
+
+2019-01-15 11:15:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:34 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageView7'
+
+2019-01-15 11:15:34 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.Button0 - instant_meINSTANT ME"), 0): Tapped on element 'Object Repository/android.widget.Button0 - instant_meINSTANT ME'
+
+2019-01-15 11:15:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:36 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - instant_meINSTANT ME'
+
+2019-01-15 11:15:36 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.Button0 - instantme-icon"), 0): Tapped on element 'Object Repository/android.widget.Button0 - instantme-icon'
+
+2019-01-15 11:15:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - instantme-icon'
+
+2019-01-15 11:15:38 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.Button3"), 0): Tapped on element 'Object Repository/android.widget.Button3'
+
+2019-01-15 11:15:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button3'
+
+2019-01-15 11:15:40 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton0 (4)"), 0): Tapped on element 'Object Repository/android.widget.ImageButton0 (4)'
+
+2019-01-15 11:15:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton0 (4)'
+
+2019-01-15 11:15:44 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton1"), 0): Tapped on element 'Object Repository/android.widget.ImageButton1'
+
+2019-01-15 11:15:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton1'
+
+2019-01-15 11:15:45 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton1"), 0): Tapped on element 'Object Repository/android.widget.ImageButton1'
+
+2019-01-15 11:15:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:15:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton1'
+
+2019-01-15 11:15:47 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2019-01-15 11:15:48 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DoctorsVisitChecklist" classname="Test Cases/DoctorsVisitChecklist" status="PASSED">
+         <system-out><![CDATA[2019-01-15 11:15:48 - [TEST_CASE][PASSED] - Test Cases/DoctorsVisitChecklist: Test Cases/DoctorsVisitChecklist
+
+2019-01-15 11:15:48 - [TEST_STEP][PASSED] - startApplication("C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk", false): Started app at: 'C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk'
+
+2019-01-15 11:15:56 - [MESSAGE][INFO] - Appium server started on port 55,980
+
+2019-01-15 11:16:23 - [MESSAGE][PASSED] - Started app at: 'C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk'
+
+2019-01-15 11:16:23 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageView10 (1)"), 0): Tapped on element 'Object Repository/android.widget.ImageView10 (1)'
+
+2019-01-15 11:16:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:32 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageView10 (1)'
+
+2019-01-15 11:16:32 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.Button0 - checklistCHECKLIST (1)"), 0): Tapped on element 'Object Repository/android.widget.Button0 - checklistCHECKLIST (1)'
+
+2019-01-15 11:16:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:35 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - checklistCHECKLIST (1)'
+
+2019-01-15 11:16:35 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.Button0 - next (16)"), 0): Tapped on element 'Object Repository/android.widget.Button0 - next (16)'
+
+2019-01-15 11:16:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:37 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - next (16)'
+
+2019-01-15 11:16:37 - [TEST_STEP][PASSED] - setText(findTestObject("android.widget.EditText0 - Add item (1)"), "Note X", 0): Text 'Note X' has been set to element 'Object Repository/android.widget.EditText0 - Add item (1)'
+
+2019-01-15 11:16:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:37 - [MESSAGE][PASSED] - Text 'Note X' has been set to element 'Object Repository/android.widget.EditText0 - Add item (1)'
+
+2019-01-15 11:16:37 - [TEST_STEP][PASSED] - tap(findTestObject("android.view.View11"), 0): Tapped on element 'Object Repository/android.view.View11'
+
+2019-01-15 11:16:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:39 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.view.View11'
+
+2019-01-15 11:16:39 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.Button13 - SET (2)"), 0): Tapped on element 'Object Repository/android.widget.Button13 - SET (2)'
+
+2019-01-15 11:16:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button13 - SET (2)'
+
+2019-01-15 11:16:40 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton1 (4)"), 0): Tapped on element 'Object Repository/android.widget.ImageButton1 (4)'
+
+2019-01-15 11:16:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:42 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton1 (4)'
+
+2019-01-15 11:16:42 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton1 (4)"), 0): Tapped on element 'Object Repository/android.widget.ImageButton1 (4)'
+
+2019-01-15 11:16:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:16:43 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton1 (4)'
+
+2019-01-15 11:16:43 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2019-01-15 11:16:44 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Skin and Selfie Test" classname="Test Cases/Skin and Selfie Test" status="PASSED">
+         <system-out><![CDATA[2019-01-15 11:16:44 - [TEST_CASE][PASSED] - Test Cases/Skin and Selfie Test: Test Cases/Skin and Selfie Test
+
+2019-01-15 11:16:45 - [TEST_STEP][PASSED] - startApplication("C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk", false): Started app at: 'C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk'
+
+2019-01-15 11:16:52 - [MESSAGE][INFO] - Appium server started on port 56,295
+
+2019-01-15 11:17:20 - [MESSAGE][PASSED] - Started app at: 'C:\Users\netzon.rhobert\Desktop\Gycom\psapp-debug.apk'
+
+2019-01-15 11:17:20 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageView11 (1)"), 0): Tapped on element 'Object Repository/android.widget.ImageView11 (1)'
+
+2019-01-15 11:17:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:28 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageView11 (1)'
+
+2019-01-15 11:17:29 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton0 (7)"), 0): Tapped on element 'Object Repository/android.widget.ImageButton0 (7)'
+
+2019-01-15 11:17:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:31 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton0 (7)'
+
+2019-01-15 11:17:31 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton6"), 0): Tapped on element 'Object Repository/android.widget.ImageButton6'
+
+2019-01-15 11:17:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:34 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton6'
+
+2019-01-15 11:17:43 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton1 (6)"), 0): Tapped on element 'Object Repository/android.widget.ImageButton1 (6)'
+
+2019-01-15 11:17:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton1 (6)'
+
+2019-01-15 11:17:45 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.TextView1 - Face"), 0): Tapped on element 'Object Repository/android.widget.TextView1 - Face'
+
+2019-01-15 11:17:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView1 - Face'
+
+2019-01-15 11:17:46 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.TextView7 - Trunk (front)"), 0): Tapped on element 'Object Repository/android.widget.TextView7 - Trunk (front)'
+
+2019-01-15 11:17:46 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView7 - Trunk (front)'
+
+2019-01-15 11:17:47 - [TEST_STEP][PASSED] - setText(findTestObject("android.widget.EditText0 - Enter comment"), "Lorem ipsum dolor sit amet.", 0): Text 'Lorem ipsum dolor sit amet.' has been set to element 'Object Repository/android.widget.EditText0 - Enter comment'
+
+2019-01-15 11:17:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:49 - [MESSAGE][PASSED] - Text 'Lorem ipsum dolor sit amet.' has been set to element 'Object Repository/android.widget.EditText0 - Enter comment'
+
+2019-01-15 11:17:57 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton1 (7)"), 0): Tapped on element 'Object Repository/android.widget.ImageButton1 (7)'
+
+2019-01-15 11:17:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:17:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton1 (7)'
+
+2019-01-15 11:17:58 - [TEST_STEP][PASSED] - tap(findTestObject("android.widget.ImageButton2"), 0): Tapped on element 'Object Repository/android.widget.ImageButton2'
+
+2019-01-15 11:17:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2019-01-15 11:18:00 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.ImageButton2'
+
+2019-01-15 11:18:00 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2019-01-15 11:18:01 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-01-15 11:14:44 - [TEST_SUITE][PASSED] - AndroidPSAPP: Test Cases/Skin and Selfie Test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
